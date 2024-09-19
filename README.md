@@ -1,1 +1,1 @@
-# pizza-sales-sql
+<pr> My first SQL project in this Pizza Sales Project aims to develop a comprehensive database management system that effectively handles various aspects of a pizza business. In today’s competitive food industry, efficient order processing, customer management, and sales tracking are crucial for success. This project will utilize SQL to create a structured database that supports seamless operations and enhances customer experience.<pr/>
